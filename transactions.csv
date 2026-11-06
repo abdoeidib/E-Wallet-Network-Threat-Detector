@@ -1,0 +1,13 @@
+transaction_id,wallet_id,amount,merchant,channel,timestamp,status,reason
+TX001,W101,200.0,Coffee Shop,Mobile,2026-11-06 10:00:00.000000,Normal,No threat detected
+TX002,W102,500.0,Supermarket,Web,2026-11-06 10:01:00.000000,Normal,No threat detected
+TX003,W103,7000.0,Online Store,Mobile,2026-11-06 10:02:00.000000,Suspicious,High transaction amount
+TX004,W101,150.0,Restaurant,Mobile,2026-11-06 10:03:00.000000,Normal,No threat detected
+TX005,W103,300.0,Pharmacy,Web,2026-11-06 10:03:00.000000,Normal,No threat detected
+TX006,W103,250.0,Market,Mobile,2026-11-06 10:04:00.000000,Normal,No threat detected
+TX007,W103,400.0,Store,Web,2026-11-06 10:05:00.000000,Normal,No threat detected
+TX008,W103,150.0,Restaurant,Mobile,2026-11-06 10:06:00.000000,Normal,No threat detected
+TX009,W103,350.0,Online Shop,Web,2026-11-06 10:07:00.000000,Suspicious,Multiple transactions in 10 minutes
+TX010,W103,200.0,Cafe,Mobile,2026-11-06 10:08:00.000000,Suspicious,Multiple transactions in 10 minutes
+TX-499dae7a,573786487,100.0,3,Mobile,2026-11-06 19:17:40.664987,Normal,No threat detected
+TX-a51e8177,573786487,100.0,3,Mobile,2026-11-06 19:17:45.472008,,
